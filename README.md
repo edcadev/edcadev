@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/104347313/167239487-669b8b77-20da-44a7-bf1a-9d5444c3e009.png" alt="banner that says Eduardo Cabanillas - WEB & UI DESIGNER">
 
-<p>I'm Kevin Eduardo Chuquilin Cabanillas, a multidisciplinary designer who focuses on telling my clients stories visually, through enjoyable and meaningful experiences. I specialize in responsive websites and functional user interfaces.</p>
+<p>I use my passion and skills to create digital products and experiences. Currently, I'm working whith big and up-and-coming companies to successfully help them reach their full potential and attract new customers.</p>
 
 <h3 align="left">Skills:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
